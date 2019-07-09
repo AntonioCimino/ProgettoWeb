@@ -1,0 +1,34 @@
+body{
+font-family:sans-serif;
+margin:0;
+background-size:cover;
+}
+hr{
+background:white;
+}
+.contain{
+width:70%;
+background:rgba(0,0,0, .6);
+color:white;
+margin-top:100px;
+margin-left:15%;
+padding:25px;
+box-shadow:0px 0px 10px 3px grey;
+}
+#pulsante{
+	height:50px;
+	color:#fff;
+	background:#1796ad;
+	border:solid 2px #000;
+	padding:12px 25px;
+	text-transform: uppercase;
+	cursor:pointer;
+	font-weight:bold;
+}
+/*quando passiamo sul cursore*/
+
+#pulsante:hover{
+	background:#000;
+	color:#fff;
+	border: solid 2px #a3a3a3;
+}

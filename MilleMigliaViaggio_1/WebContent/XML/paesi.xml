@@ -1,0 +1,198 @@
+<mondo>
+<continente nome="Europa">
+<nome>Europa</nome>
+<paese>Albania</paese>
+<paese>Andorra	</paese>
+<paese>Austria	</paese>
+<paese>Belgio	</paese>
+<paese>Bielorussia	</paese>
+<paese>Bosnia ed Erzegovina</paese>
+<paese>Bulgaria	</paese>
+<paese>Cipro</paese>
+<paese>Croazia</paese>
+<paese>Danimarca</paese>
+<paese>Estonia	</paese>
+<paese>Finlandia</paese>
+<paese>Francia	</paese>
+<paese>Germania</paese>
+<paese>Grecia	</paese>
+<paese>Irlanda	</paese>
+<paese>Islanda	</paese>
+<paese>Italia	</paese>
+<paese>Kosovo	</paese>
+<paese>Lettonia	</paese>
+<paese>Liechtenstein	</paese>
+<paese>Lituania</paese>
+<paese>Lussemburgo	</paese>
+<paese>Macedonia</paese>
+<paese>Malta</paese>
+<paese>Moldavia</paese>
+<paese>Monaco</paese>
+<paese>Montenegro</paese>
+<paese>Norvegia</paese>
+<paese>Paesi Bassi	</paese>
+<paese>Polonia	</paese>
+<paese>Portogallo	</paese>
+<paese>Regno Unito	</paese>
+<paese>Repubblica Ceca	</paese>
+<paese>Romania	</paese>
+<paese>San Marino</paese>
+<paese>Serbia</paese>
+<paese>Slovacchia</paese>
+<paese>Slovenia</paese>
+<paese>Spagna</paese>
+<paese>Svezia</paese>
+<paese>Svizzera</paese>
+<paese>Ucraina	</paese>
+<paese>Ungheria</paese>
+<paese>Vaticano</paese>
+</continente>
+	<continente nome="Asia">
+<nome>Asia</nome>
+<paese>Russia</paese>
+<paese>Giappone </paese>
+<paese>Tailandia </paese>
+<paese>Vietnam </paese>
+<paese>Istanbul </paese>
+<paese>Birmania </paese>
+<paese>Afghanistan </paese>
+<paese>Armenia </paese>
+<paese>Azerbagian </paese>
+<paese>Cambogia </paese>
+<paese>Bahrein </paese>
+<paese>Cina </paese>
+<paese>Turchia </paese>
+<paese>Indonesia </paese>
+<paese>Bangladesh </paese>
+<paese>Bhutan </paese>
+<paese>Brunei </paese>
+<paese>Corea del nord </paese>
+<paese>Corea del sud </paese>
+<paese>Emirati Arabi Uniti </paese>
+<paese>Filippine </paese>
+<paese>Georgia </paese>
+<paese>Giordania </paese>
+<paese>India </paese>
+<paese>Iran </paese>
+<paese>Iraq </paese>
+<paese>Israele </paese>
+<paese>Kazakistan </paese>
+<paese>Kuwait </paese>
+<paese>Laos </paese>
+<paese>Libano </paese>
+<paese>Maldive </paese>
+<paese>Malesia </paese>
+<paese>Mongolia </paese>
+<paese>Nepal </paese>
+<paese>Oman </paese>
+<paese>Pakistan </paese>
+<paese>Qatar </paese>
+<paese>Singapore </paese>
+<paese>Siria </paese>
+<paese>Sri lanka </paese>
+<paese>Taiwan </paese>
+<paese>Turkmenistan </paese>
+<paese>Vietnam </paese>
+<paese>Yemen </paese>
+</continente>
+	<continente nome="Nord-America">
+<nome>Nord-America</nome>
+<paese>Antigua e Barbuda </paese>
+<paese>Bahamas </paese>
+<paese>Barbados </paese>
+<paese>Belize </paese>
+<paese>Canada </paese>
+<paese>Messico </paese>
+<paese>Alaska </paese>
+<paese>Arizona </paese>
+<paese>Florida </paese>
+<paese>New York </paese>
+<paese>Texas </paese>
+<paese>California </paese>
+<paese>San Francisco </paese>
+<paese>Yucatan </paese>
+<paese>Utah </paese>
+<paese>Georgia </paese>
+</continente>
+	<continente nome="Oceania">
+<nome>Oceania</nome>
+<paese>Australia </paese>
+<paese>Figi </paese>
+<paese>Isole Marshall </paese>
+<paese>Isole Salomone </paese>
+<paese>Kiribati </paese>
+<paese>Micronesia </paese>
+<paese>Nauru </paese>
+<paese>Nuova Zelanda </paese>
+<paese>Palau </paese>
+<paese>Papua Nuova Guinea </paese>
+<paese>Samoa </paese>
+<paese>Timor Est </paese>
+<paese>Tonga </paese>
+<paese>Tuvalu </paese>
+<paese>Vanuatu </paese>
+</continente>
+	<continente nome="Africa">
+<nome>Africa</nome>
+<paese>Algeria </paese>
+<paese>Angola </paese>
+<paese>Benin </paese>
+<paese>Botswana </paese>
+<paese>Burkina Faso </paese>
+<paese>Burundi </paese>
+<paese>Camerun </paese>
+<paese>Capo Verde </paese>
+<paese>Ciad </paese>
+<paese>Congo </paese>
+<paese>Costa d'avorio </paese>
+<paese>Egitto </paese>
+<paese>Eritrea </paese>
+<paese>Etiopia </paese>
+<paese>Gambia </paese>
+<paese>Ghana </paese>
+<paese>Guinea </paese>
+<paese>kenya </paese>
+<paese>Liberia </paese>
+<paese>Libia </paese>
+<paese>Madagascar </paese>
+<paese>Malawi </paese>
+<paese>Mali </paese>
+<paese>Marocco </paese>
+<paese>Mauritani </paese>
+<paese>Mauritius </paese>
+<paese>Mozambico </paese>
+<paese>Namibia </paese>
+<paese>Nigeria </paese>
+<paese>Repubblica centrafricana </paese>
+<paese>Ruanda </paese>
+<paese>Senegal </paese>
+<paese>Seychelles </paese>
+<paese>Somalia </paese>
+<paese>Sudafrica </paese>
+<paese>Sudan </paese>
+<paese>Sudan del Sud </paese>
+<paese>Swaziland </paese>
+<paese>Tanzania </paese>
+<paese>Togo </paese>
+<paese>Tunisia </paese>
+<paese>Uganda </paese>
+<paese>Zambia </paese>
+<paese>Zimbabwe </paese>
+</continente>
+	<continente nome="Sud-America">
+<nome>Sud-America</nome>
+<paese>Argentina </paese>
+<paese>Brasile </paese>
+<paese>Cile </paese>
+<paese>Colombia </paese>
+<paese>Perù </paese>
+<paese>Venezuela </paese>
+<paese>Ecuador </paese>
+<paese>Bolivia </paese>
+<paese>Uruguay </paese>
+<paese>Paraguay </paese>
+<paese>Suriname </paese>
+<paese>Guyana </paese>
+<paese>Isole Falkland </paese>
+</continente>
+</mondo>
